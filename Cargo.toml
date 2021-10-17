@@ -1,0 +1,9 @@
+[package]
+name = "haversine"
+version = "0.1.0"
+authors = ["Chris Snape-Jenkinson"]
+edition = "2018"
+license = "MIT"
+keywords = ["haversine"]
+
+[dependencies]
